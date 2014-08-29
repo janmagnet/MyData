@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://raw.github.com/janmagnet/MyData/$version$/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/janmagnet/MyData</projectUrl>
+    <iconUrl>http://www.gravatar.com/avatar/204917a89058ce90bebf2e734eb735ee?s=32</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Initial alpha release.</releaseNotes>
+    <copyright>Copyright © 2014 Jan Magne Tjensvold</copyright>
+    <tags>data read file csv database db sql</tags>
+  </metadata>
+</package>
