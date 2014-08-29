@@ -6,7 +6,7 @@
     <title>$title$</title>
     <authors>$author$</authors>
     <owners>$author$</owners>
-    <licenseUrl>https://raw.github.com/janmagnet/MyData/$version$/LICENSE.txt</licenseUrl>
+    <licenseUrl>https://raw.github.com/janmagnet/MyData/v$version$/LICENSE.txt</licenseUrl>
     <projectUrl>https://github.com/janmagnet/MyData</projectUrl>
     <iconUrl>http://www.gravatar.com/avatar/204917a89058ce90bebf2e734eb735ee?s=32</iconUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
