@@ -38,6 +38,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArrayBasedDataRecord.cs" />
+    <Compile Include="Properties\AssemblyVersion.cs" />
     <Compile Include="CsvReader.cs" />
     <Compile Include="DbDataReaderWrapper.cs" />
     <Compile Include="Extensions.cs" />

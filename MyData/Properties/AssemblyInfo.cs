@@ -1,5 +1,6 @@
 ﻿using System.Reflection;
 using System.Runtime.InteropServices;
+using MyData.Properties;
 
 // Project-specific information
 [assembly: AssemblyTitle("My Data Library")]
@@ -17,9 +18,9 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("0.1.0.*")]
-[assembly: AssemblyFileVersion("0.1.0-alpha")]
-[assembly: AssemblyInformationalVersion("0.1.0-alpha")]
+[assembly: AssemblyVersion(AssemblyVersion.Main + ".*")]
+[assembly: AssemblyFileVersion(AssemblyVersion.Main + AssemblyVersion.PreRelease)]
+[assembly: AssemblyInformationalVersion(AssemblyVersion.Main + AssemblyVersion.PreRelease)]
 
 #if DEBUG
 [assembly: AssemblyConfiguration("Debug")]
@@ -31,3 +32,4 @@ using System.Runtime.InteropServices;
 // to COM components.  If you need to access a type in this assembly from 
 // COM, set the ComVisible attribute to true on that type.
 [assembly: ComVisible(false)]
+
