@@ -8,7 +8,7 @@
         /// <summary>
         /// Main version string with major, minor and patch version numbers.
         /// </summary>
-        public const string Main = "0.1.0";
+        public const string Main = "0.1.1";
 
         /// <summary>
         /// Pre-release version suffix.
